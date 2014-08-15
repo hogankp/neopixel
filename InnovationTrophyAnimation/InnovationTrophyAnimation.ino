@@ -1,9 +1,9 @@
 #include <Adafruit_NeoPixel.h>
 
-#define PIN 0
+#define PIN 1
 
 int minLEDNum = 0;
-int maxLEDNum = 30;
+int maxLEDNum = 8;
 
 int animStartLEDNum = 1;
 
